@@ -1,5 +1,5 @@
 a=3
-c=5
-sum=a+c
+b=5
+sum=a+b
 
 print(sum)
